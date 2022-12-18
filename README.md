@@ -84,3 +84,13 @@ Compensation from the persistence layer.
 
 ## Delivery
 Please upload your results to a publicly accessible Git repo. Free ones are provided by Github and Bitbucket.
+### Task 1
+
+Created new RestService named numberOfReports.
+Created new Test class named NumberOfReportsServiceImplTest to test the RestService.
+
+
+### Task 2
+
+Created new RestService named compensation.
+Created new Test class named CompensationServiceImplTest to test the RestService.
